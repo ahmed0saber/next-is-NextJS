@@ -1,6 +1,6 @@
 ### Learning NextJS
 
-I wasn't able to create-next-app with npx, so I tried npm which didn't work too, finally I install yarn and used npx again (FIXED)
+I wasn't able to create-next-app with npx, so I tried npm which didn't work too, finally I installed yarn and used npx again (FIXED)
 
 <code> npm install --global yarn </code>
 
@@ -8,7 +8,6 @@ I wasn't able to create-next-app with npx, so I tried npm which didn't work too,
 
 <pre>
   <code>
-  
     yarn dev
       Starts the development server.
 
@@ -17,6 +16,5 @@ I wasn't able to create-next-app with npx, so I tried npm which didn't work too,
 
     yarn start
       Runs the built app in production mode.
-      
   </code>
 </pre>
